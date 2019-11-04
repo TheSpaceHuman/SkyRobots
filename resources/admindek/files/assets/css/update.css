@@ -1,0 +1,32 @@
+.pcoded .pcoded-navbar .pcoded-navigation-label {
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.086em;
+  font-style: normal;
+  font-size: 13px;
+}
+.table__actions a, .table__actions button {
+  font-size: 23px;
+  padding: 5px;
+}
+.btn-clear {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+.table__actions__destroy {
+  display: inline-block;
+}
+.card-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-image img {
+  display: block;
+  max-width: 800px;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  margin: 0 auto;
+}
